@@ -1,5 +1,6 @@
 # Tesla App
  Created by - Heet Goyani
+Live link : https://pure-soft-labs-assignment-heet-goyani.vercel.app/dashboard
 # Dashboard UI Task - Next.js Implementation
 
 This project is a dashboard UI built using **Next.js (v14.x)** with **TypeScript**, based on a Figma design. The dashboard is mobile-responsive and fetches dynamic data from a provided JSON file. It also includes functionality to interact with an external API for downloading a Base64-encoded image.
